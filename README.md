@@ -4,6 +4,7 @@
  * Нужно вставить ссылку на первую страницу списка прокси
  * Копировать из консоли
  * Когда в конце начинает спамить текстом нажмите Ctrl+C
+
 * Eng:
  * You need to insert a link to the first page of the proxy list
  * Copy from terminal
